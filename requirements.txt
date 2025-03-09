@@ -1,0 +1,7 @@
+Flask
+numpy
+tensorflow
+Pillow
+requests
+flask-cors
+gunicorn
